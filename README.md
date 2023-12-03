@@ -24,7 +24,7 @@ http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
 #EXTINF:0,STAR
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0,SKAI
-https://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:0,E
 rtmp://213.16.167.187:1935/live/mpegts_256.stream
 #EXTINF:0,MAKEDONIA
