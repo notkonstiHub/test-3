@@ -28,7 +28,7 @@ https://skai-live.siliconweb.com/media/cambria4/20231203T115949Z/bitrate2000K/me
 #EXTINF:0,E
 rtmp://213.16.167.187:1935/live/mpegts_256.stream
 #EXTINF:0,MAKEDONIA
-rtmp://213.16.167.55/livepkgr/livestream
+https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_4.m3u8
 #EXTINF:0,ART
 http://iphone-streaming.ustream.tv/uhls/16900854/streams/live/iphone/playlist.m3u8
 #EXTINF:0,VOULI
