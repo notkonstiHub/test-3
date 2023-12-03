@@ -4,7 +4,7 @@ http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8
 #EXTINF:0,EBS PLUS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
 #EXTINF:0,EURONEWS
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
+https://www.youtube.com/watch?v=uWIhV9gQClg
 #EXTINF:0,NERIT
 http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
 #EXTINF:0,NERIT PLUS
