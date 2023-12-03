@@ -1,4 +1,4 @@
-s#EXTM3U
+#EXTM3U
 #EXTINF:0,EBS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8
 #EXTINF:0,EBS PLUS
@@ -24,7 +24,7 @@ http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
 #EXTINF:0,STAR
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0,SKAI
-https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+https://skai-live.siliconweb.com/media/cambria4/20231203T115949Z/bitrate2000K/media_974.ts
 #EXTINF:0,E
 rtmp://213.16.167.187:1935/live/mpegts_256.stream
 #EXTINF:0,MAKEDONIA
