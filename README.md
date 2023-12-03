@@ -16,7 +16,7 @@ http://206.222.31.146/et1
 #EXTINF:0,NERIT PROMO
 http://nerit3-lh.akamaihd.net/i/nerit_promo_6@48667/master.m3u8
 #EXTINF:0,MEGA
-http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+https://www.stasinos.tv/5ef6ead5-0113-48b8-8687-321969ee4a64
 #EXTINF:0,ANT1
 http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8
 #EXTINF:0,ALPHA
