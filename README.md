@@ -130,7 +130,7 @@ http://iphone-streaming.ustream.tv/uhls/6945431/streams/live/iphone/playlist.m3u
 #EXTINF:0,R CHANNEL
 http://xrodopi_tvx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,THRAKI NET
-[mmsh://live.onestreaming.com/thrakinet](https://www.thrakinet.tv/thrakinet-live/)
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/l_1595994_305196040_50866.ts?nimblesessionid=63017645
 #EXTINF:0,TOP CHANNEL
 http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
 #EXTINF:0,SUPER TV
