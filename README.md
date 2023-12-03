@@ -176,7 +176,7 @@ mms://212.251.44.111:27030
 #EXTINF:-0,KIDS TV
 http://wpso.com:200/kids
 #EXTINF:0,4E
-http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1847417990_b746000_slEN.m3u8
 #EXTINF:0,THLESPORT
 http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
 #EXTINF:0,HELLAS TV
